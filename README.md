@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aishvary3010
 - 👀 I’m interested in Full Stack Development, Robotics, AI & Machine Learing.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning ReactJs & Python
 - 📫 To reach me email at aishvaryturkar03@gmail.com
 
 <!---
